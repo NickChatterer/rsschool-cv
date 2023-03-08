@@ -8,7 +8,7 @@ ___
 * **E-mail** chatterer_95@mail.ru
 * **Instagram** [My Profile](https://www.instagram.com/chatterer_/)
 * **Linkedin** [My Profile](https://www.linkedin.com/in/nikita-popov-463078258/)
-* **GitHub** [My Profile]((https://github.com/NickChatterer)
+* **GitHub** [My Profile](https://github.com/NickChatterer)
 
 ___
 
